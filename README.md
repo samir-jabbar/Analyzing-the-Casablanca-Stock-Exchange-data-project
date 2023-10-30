@@ -1,5 +1,7 @@
 # Python Project: Stock Exchange Analysis
 
+![Stock Exchange](https://www.fluentu.com/blog/business-english/wp-content/uploads/sites/20/2015/02/business-english-from-the-wolf-of-wall-street-finance-101.png)
+
 This is the GitHub repository for the Python project "Stock Exchange Analysis." It includes the project code, Jupyter Notebook, and the required dataset.
 
 ## Table of Contents
